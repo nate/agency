@@ -1,5 +1,5 @@
 require "agency/version"
+require "agency/basic/actor"
 
 module Agency
-  # Your code goes here...
 end
